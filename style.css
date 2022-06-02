@@ -1,1 +1,17 @@
-
+body {
+  background-color: mintcream;
+  font-family: Optima, sans-serif;
+}
+h1 {
+  background-color: cadetblue;
+  padding: 15px;
+  margin: auto;
+}
+p.header {
+  font-weight: bold;
+  font-size: 12px;
+  margin: auto;
+}
+img {
+  border-radius: 50%;
+}
